@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c71a99f7a52c3074ea4198df6070fd41, type: 3}
+  m_Name: DefualtPlayerStats
+  m_EditorClassIdentifier: 
+  jumpKey_Stats: 32
+  moveSpeed_Stats: 24
+  groundDrag_Stats: 5
+  jumpForce_Stats: 24
+  jumpCoolDown_Stats: 0.25
+  airMultiplier_Stats: 0.1
+  playerHeight_Stats: 2
+  groundLayer_Stats:
+    serializedVersion: 2
+    m_Bits: 256
